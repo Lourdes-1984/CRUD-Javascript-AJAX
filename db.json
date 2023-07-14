@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "José Carballo",
+      "email": "jose@correo.com",
+      "id": "0358c8fa-2dc8-4a55-81a3-cdb142b79e43"
+    },
+    {
+      "nombre": "Maria Sosa Dominguez",
+      "email": "mari@correo",
+      "id": "5af4764a-b2d6-4044-b6bb-5bf0d5e6a0d9"
+    },
+    {
+      "nombre": "Juan Carlos",
+      "email": "juan@correo.com",
+      "id": "345b9a82-9b83-4d69-85f4-350fac2fc71d"
+    }
+  ]
+}
